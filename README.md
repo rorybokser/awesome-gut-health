@@ -4,7 +4,7 @@
 
 Living with a chronic gut condition means making hundreds of food decisions a week with scattered, often contradictory information. This list collects the resources that are actually useful — evidence-based, well-maintained, and made by people who understand the day-to-day reality.
 
-Inclusion is based on usefulness and credibility, not popularity or commercial relationships. Entries within each section are listed alphabetically. Suggestions welcome — see [Contributing](#contributing).
+Inclusion is based on usefulness and credibility, not popularity or commercial relationships. Entries within each section are listed alphabetically. Suggestions are welcome.
 
 > **Not medical advice.** Diets and treatments for gut conditions are individual; work with a qualified clinician or dietitian before making changes.
 
@@ -19,14 +19,13 @@ Inclusion is based on usefulness and credibility, not popularity or commercial r
 - [Books](#books)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
-- [Contributing](#contributing)
 
 ## Apps & Trackers
 
 Apps for logging food, symptoms, and bowel movements, and for spotting your own triggers over time.
 
 - [Cara Care](https://cara.care) - Symptom and nutrition tracking with guided programs for digestive conditions.
-- [GI Buddy](https://www.crohnscolitisfoundation.org) - Symptom, treatment, and wellbeing tracker from the Crohn's & Colitis Foundation.
+- [GI Buddy](https://www.crohnscolitisfoundation.org/gibuddy) - Symptom, treatment, and wellbeing tracker from the Crohn's & Colitis Foundation.
 - [mySymptoms Food Diary](https://skygazerlabs.com) - Detailed food, symptom, and lifestyle tracker with correlation analysis.
 - [Nerva](https://www.mindsethealth.com/nerva) - Gut-directed hypnotherapy program for IBS, based on the Monash University approach.
 - [Spoonful](https://www.spoonfulapp.com) - Scan packaged foods to check low-FODMAP and gut-friendly suitability.
@@ -85,9 +84,9 @@ Trustworthy, non-commercial sources for evidence and patient education.
 
 ## Books
 
-- [Breaking the Vicious Cycle](https://www.breakingtheviciouscycle.info) - Elaine Gottschall's foundational SCD book.
+- [Breaking the Vicious Cycle](https://www.breakingtheviciouscycle.info/the-book/) - Elaine Gottschall's foundational SCD book.
 - [The Complete Low-FODMAP Diet](https://shepherdworks.com.au) - Sue Shepherd & Peter Gibson, the diet's originators.
-- [The Wahls Protocol](https://terrywahls.com) - Dr. Terry Wahls' book on her protocol for autoimmune conditions.
+- [The Wahls Protocol](https://terrywahls.com/the-wahls-protocol/) - Dr. Terry Wahls' book on her protocol for autoimmune conditions.
 
 ## Podcasts
 
@@ -107,9 +106,3 @@ Trustworthy, non-commercial sources for evidence and patient education.
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. In short: entries must be genuinely useful, well-maintained, and relevant to gut health; keep descriptions neutral and factual; list entries alphabetically within their section; no affiliate links or low-quality directory spam.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
-
-To the extent possible under law, contributors have waived all copyright and related rights to this work.
