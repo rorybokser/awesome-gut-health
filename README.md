@@ -49,7 +49,7 @@ Authoritative sources for the major gut-health and elimination diets. Which (if 
 - [Low-FODMAP Diet (Monash)](https://www.monashfodmap.com/about-fodmap-and-ibs/) - The most evidence-backed dietary approach for IBS.
 - [Specific Carbohydrate Diet (SCD)](https://www.breakingtheviciouscycle.info) - The original SCD reference site based on *Breaking the Vicious Cycle*.
 - [IBD-AID (UMass Chan)](https://www.umassmed.edu/nutrition/ibd/ibdaid/) - The IBD Anti-Inflammatory Diet from the UMass Center for Applied Nutrition.
-- [Autoimmune Protocol (AIP)](https://autoimmunewellness.com/start-here/) - Practitioner-reviewed guide to the AIP elimination and reintroduction framework.
+- [Autoimmune Protocol (AIP)](https://autoimmunewellness.com) - Practitioner-reviewed guide to the AIP elimination and reintroduction framework.
 - [The Wahls Protocol](https://terrywahls.com) - Dr. Terry Wahls' Paleo-based protocol for autoimmune conditions.
 - [Crohn's Disease Exclusion Diet (CDED)](https://pubmed.ncbi.nlm.nih.gov/31170412/) - Published clinical protocol pairing whole-food exclusion with partial enteral nutrition.
 - [Gluten-Free (Celiac Disease Foundation)](https://celiac.org/gluten-free-living/) - Reference for medically necessary gluten-free eating.
@@ -60,7 +60,7 @@ Recipes built around specific gut-health diets.
 
 - [Tract Recipes](https://tract.health/recipes) - Free elimination-diet recipes filterable by diet (low-FODMAP, SCD, AIP, and more).
 - [A Little Bit Yummy](https://alittlebityummy.com) - Large low-FODMAP recipe library and meal plans, dietitian-led.
-- [Kate Scarlata](https://www.katescarlata.com/recipes) - Recipes and resources from a leading low-FODMAP dietitian.
+- [Kate Scarlata](https://www.katescarlata.com) - Recipes and resources from a leading low-FODMAP dietitian.
 - [FODMAP Everyday](https://www.fodmapeveryday.com) - Low-FODMAP recipes, guides, and product reviews.
 - [Rachel Pauls Food](https://www.rachelpaulsfood.com/category/recipes/) - Low-FODMAP recipes and snacks.
 
@@ -77,21 +77,20 @@ Trustworthy, non-commercial sources for evidence and patient education.
 
 ## Find a Dietitian
 
-- [Monash FODMAP-Trained Dietitian Directory](https://www.monashfodmap.com/online-training/fodmap-dietitians/) - Find a clinician trained in the low-FODMAP diet.
+- [Monash FODMAP-Trained Dietitians](https://www.monashfodmap.com/online-training/) - Find a clinician trained in the low-FODMAP diet.
 - [Crohn's & Colitis Dietitians](https://www.crohnsandcolitisdietitians.com) - Dietitians specializing in IBD.
 
 ## Books
 
 - [Breaking the Vicious Cycle](https://www.breakingtheviciouscycle.info) - Elaine Gottschall's foundational SCD book.
 - [The Complete Low-FODMAP Diet](https://shepherdworks.com.au) - Sue Shepherd & Peter Gibson, the diet's originators.
-- [The Wahls Protocol](https://terrywahls.com/about/the-wahls-protocol-books/) - Dr. Terry Wahls' protocol for autoimmune conditions.
+- [The Wahls Protocol](https://terrywahls.com) - Dr. Terry Wahls' book on her protocol for autoimmune conditions.
 
 ## Podcasts
 
-- [The Gut Health Podcast](https://www.theguthealthpodcast.com) - Dietitian Kate Scarlata and Dr. Megan Riehl on evidence-based gut health.
+- [The Gut Health Podcast](https://theguthealthpodcast.com) - Dietitian Kate Scarlata and Dr. Megan Riehl on evidence-based gut health.
 - [About IBD](https://aboutibd.com) - Amber Tresca's long-running IBD patient podcast.
-- [Bowel Moments](https://www.bowelmoments.com) - Candid conversations with the IBD community.
-- [The Healthy Gut](https://www.thehealthygut.com/podcasts/) - Rebecca Coomes on SIBO, IBS, and digestive health.
+- [The Healthy Gut](https://www.thehealthygut.com) - Rebecca Coomes on SIBO, IBS, and digestive health.
 
 ## Communities
 
