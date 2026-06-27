@@ -4,7 +4,7 @@
 
 Living with a chronic gut condition means making hundreds of food decisions a week with scattered, often contradictory information. This list collects the resources that are actually useful — evidence-based, well-maintained, and made by people who understand the day-to-day reality.
 
-Inclusion is based on usefulness and credibility, not popularity or commercial relationships. Suggestions welcome — see [Contributing](#contributing).
+Inclusion is based on usefulness and credibility, not popularity or commercial relationships. Entries within each section are listed alphabetically. Suggestions welcome — see [Contributing](#contributing).
 
 > **Not medical advice.** Diets and treatments for gut conditions are individual; work with a qualified clinician or dietitian before making changes.
 
@@ -25,60 +25,63 @@ Inclusion is based on usefulness and credibility, not popularity or commercial r
 
 Apps for logging food, symptoms, and bowel movements, and for spotting your own triggers over time.
 
-- [Tract](https://tract.health) - Gut-health app with an AI coach and food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets; pairs with free no-signup web tools.
 - [Cara Care](https://cara.care) - Symptom and nutrition tracking with guided programs for digestive conditions.
-- [mySymptoms Food Diary](https://skygazerlabs.com) - Detailed food, symptom, and lifestyle tracker with correlation analysis.
-- [Spoonful](https://www.spoonfulapp.com) - Scan packaged foods to check low-FODMAP and gut-friendly suitability.
-- [Nerva](https://www.mindsethealth.com/nerva) - Gut-directed hypnotherapy program for IBS, based on the Monash University approach.
 - [GI Buddy](https://www.crohnscolitisfoundation.org) - Symptom, treatment, and wellbeing tracker from the Crohn's & Colitis Foundation.
+- [mySymptoms Food Diary](https://skygazerlabs.com) - Detailed food, symptom, and lifestyle tracker with correlation analysis.
+- [Nerva](https://www.mindsethealth.com/nerva) - Gut-directed hypnotherapy program for IBS, based on the Monash University approach.
+- [Spoonful](https://www.spoonfulapp.com) - Scan packaged foods to check low-FODMAP and gut-friendly suitability.
+- [Tract](https://tract.health) - Gut-health app with an AI coach and food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets; pairs with free no-signup web tools.
 
 ## Food Databases & Tools
 
 Look up whether a specific food fits your diet or condition.
 
-- [Tract Food Directory](https://tract.health/foods) - Free, no-signup food directory with per-food FODMAP, SCD, AIP, gluten, fiber, and histamine profiles across 11 gut-health diets.
-- [Tract — Can I Eat This?](https://tract.health/tools/can-i-eat) - Free checker that answers whether a given food fits a chosen diet or condition.
-- [Monash FODMAP](https://www.monashfodmap.com) - The authoritative low-FODMAP food database and app from the team that developed the diet.
+- [AIP Food List](https://autoimmunewellness.com/aip/) - Foods to eliminate and reintroduce on the Autoimmune Protocol.
 - [FODMAP Friendly](https://fodmapfriendly.com) - Certification program and food database for low-FODMAP products.
+- [Gluten-Free Foods (Celiac Disease Foundation)](https://celiac.org/gluten-free-living/gluten-free-foods/) - Which foods are naturally gluten-free and which to avoid.
+- [Monash FODMAP](https://www.monashfodmap.com) - The authoritative low-FODMAP food database and app from the team that developed the diet.
 - [Open Food Facts](https://world.openfoodfacts.org) - Open, crowdsourced database of packaged-food ingredients and nutrition.
+- [SIGHI Histamine Food List](https://www.mastzellaktivierung.info/en/downloads.html) - The Swiss histamine-intolerance group's widely used food compatibility (low-histamine) list.
+- [Tract Food Directory](https://tract.health/foods) - Free, no-signup food directory with per-food FODMAP, SCD, AIP, gluten, fiber, and histamine profiles across 11 gut-health diets.
 
 ## Diet Protocols
 
 Authoritative sources for the major gut-health and elimination diets. Which (if any) suits you is individual — confirm with a clinician.
 
-- [Low-FODMAP Diet (Monash)](https://www.monashfodmap.com/about-fodmap-and-ibs/) - The most evidence-backed dietary approach for IBS.
-- [Specific Carbohydrate Diet (SCD)](https://www.breakingtheviciouscycle.info) - The original SCD reference site based on *Breaking the Vicious Cycle*.
-- [IBD-AID (UMass Chan)](https://www.umassmed.edu/nutrition/ibd/ibdaid/) - The IBD Anti-Inflammatory Diet from the UMass Center for Applied Nutrition.
 - [Autoimmune Protocol (AIP)](https://autoimmunewellness.com) - Practitioner-reviewed guide to the AIP elimination and reintroduction framework.
-- [The Wahls Protocol](https://terrywahls.com) - Dr. Terry Wahls' Paleo-based protocol for autoimmune conditions.
 - [Crohn's Disease Exclusion Diet (CDED)](https://pubmed.ncbi.nlm.nih.gov/31170412/) - Published clinical protocol pairing whole-food exclusion with partial enteral nutrition.
 - [Gluten-Free (Celiac Disease Foundation)](https://celiac.org/gluten-free-living/) - Reference for medically necessary gluten-free eating.
+- [IBD-AID (UMass Chan)](https://www.umassmed.edu/nutrition/ibd/ibdaid/) - The IBD Anti-Inflammatory Diet from the UMass Center for Applied Nutrition.
+- [Low-FODMAP Diet (Monash)](https://www.monashfodmap.com/about-fodmap-and-ibs/) - The most evidence-backed dietary approach for IBS.
+- [Specific Carbohydrate Diet (SCD)](https://www.breakingtheviciouscycle.info) - The original SCD reference site based on *Breaking the Vicious Cycle*.
+- [The Wahls Protocol](https://terrywahls.com) - Dr. Terry Wahls' Paleo-based protocol for autoimmune conditions.
 
 ## Recipes
 
 Recipes built around specific gut-health diets.
 
-- [Tract Recipes](https://tract.health/recipes) - Free elimination-diet recipes filterable by diet (low-FODMAP, SCD, AIP, and more).
 - [A Little Bit Yummy](https://alittlebityummy.com) - Large low-FODMAP recipe library and meal plans, dietitian-led.
-- [Kate Scarlata](https://www.katescarlata.com) - Recipes and resources from a leading low-FODMAP dietitian.
 - [FODMAP Everyday](https://www.fodmapeveryday.com) - Low-FODMAP recipes, guides, and product reviews.
+- [Kate Scarlata](https://www.katescarlata.com) - Recipes and resources from a leading low-FODMAP dietitian.
 - [Rachel Pauls Food](https://www.rachelpaulsfood.com/category/recipes/) - Low-FODMAP recipes and snacks.
+- [Tract Recipes](https://tract.health/recipes) - Free elimination-diet recipes filterable by diet (low-FODMAP, SCD, AIP, and more).
 
 ## Research, Guidelines & Patient Orgs
 
 Trustworthy, non-commercial sources for evidence and patient education.
 
-- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) - Free full-text archive of peer-reviewed biomedical research.
 - [Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org) - Leading US IBD patient org: education, diet guidance, and research.
-- [IFFGD](https://iffgd.org) - International Foundation for Gastrointestinal Disorders (IBS and functional GI disorders).
-- [Guts UK](https://gutscharity.org.uk) - UK charity with plain-language guides on digestive conditions.
 - [GI Society / BadGut](https://badgut.org) - Canadian Society of Intestinal Research patient resources.
+- [Guts UK](https://gutscharity.org.uk) - UK charity with plain-language guides on digestive conditions.
+- [IFFGD](https://iffgd.org) - International Foundation for Gastrointestinal Disorders (IBS and functional GI disorders).
 - [Monash FODMAP Blog](https://www.monashfodmap.com/blog/) - Research updates from the team behind the low-FODMAP diet.
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) - Free full-text archive of peer-reviewed biomedical research.
 
 ## Find a Dietitian
 
-- [Monash FODMAP-Trained Dietitians](https://www.monashfodmap.com/online-training/) - Find a clinician trained in the low-FODMAP diet.
 - [Crohn's & Colitis Dietitians](https://www.crohnsandcolitisdietitians.com) - Dietitians specializing in IBD.
+- [Monash FODMAP-Trained Dietitians](https://www.monashfodmap.com/online-training/) - Find a clinician trained in the low-FODMAP diet.
+- [Nourish](https://www.nourish.com) - Telehealth platform matching you with registered dietitians, often covered by US insurance.
 
 ## Books
 
@@ -88,22 +91,22 @@ Trustworthy, non-commercial sources for evidence and patient education.
 
 ## Podcasts
 
-- [The Gut Health Podcast](https://theguthealthpodcast.com) - Dietitian Kate Scarlata and Dr. Megan Riehl on evidence-based gut health.
 - [About IBD](https://aboutibd.com) - Amber Tresca's long-running IBD patient podcast.
+- [The Gut Health Podcast](https://theguthealthpodcast.com) - Dietitian Kate Scarlata and Dr. Megan Riehl on evidence-based gut health.
 - [The Healthy Gut](https://www.thehealthygut.com) - Rebecca Coomes on SIBO, IBS, and digestive health.
 
 ## Communities
 
-- [r/IBD](https://www.reddit.com/r/IBD/) - General inflammatory bowel disease community.
 - [r/CrohnsDisease](https://www.reddit.com/r/CrohnsDisease/) - Support and discussion for Crohn's disease.
-- [r/UlcerativeColitis](https://www.reddit.com/r/UlcerativeColitis/) - Support and discussion for ulcerative colitis.
-- [r/ibs](https://www.reddit.com/r/ibs/) - Irritable bowel syndrome community.
 - [r/FODMAPS](https://www.reddit.com/r/FODMAPS/) - Practical low-FODMAP diet help.
+- [r/IBD](https://www.reddit.com/r/IBD/) - General inflammatory bowel disease community.
+- [r/ibs](https://www.reddit.com/r/ibs/) - Irritable bowel syndrome community.
 - [r/SIBO](https://www.reddit.com/r/SIBO/) - Small intestinal bacterial overgrowth community.
+- [r/UlcerativeColitis](https://www.reddit.com/r/UlcerativeColitis/) - Support and discussion for ulcerative colitis.
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. In short: entries must be genuinely useful, well-maintained, and relevant to gut health; keep descriptions neutral and factual; no affiliate links or low-quality directory spam.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. In short: entries must be genuinely useful, well-maintained, and relevant to gut health; keep descriptions neutral and factual; list entries alphabetically within their section; no affiliate links or low-quality directory spam.
 
 ## License
 
